@@ -1,0 +1,75 @@
+PING hnd-jp-ping.vultr.com (108.61.201.151) 56(84) bytes of data.
+
+--- hnd-jp-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 104.057/143.764/318.383/70.669 ms
+PING sgp-ping.vultr.com (45.32.100.168) 56(84) bytes of data.
+
+--- sgp-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9005ms
+rtt min/avg/max/mdev = 173.961/175.471/177.602/1.148 ms
+PING ams-nl-ping.vultr.com (108.61.198.102) 56(84) bytes of data.
+
+--- ams-nl-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9107ms
+rtt min/avg/max/mdev = 303.655/334.525/603.099/89.532 ms
+PING par-fr-ping.vultr.com (108.61.209.127) 56(84) bytes of data.
+
+--- par-fr-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 310.864/316.979/361.763/14.960 ms
+PING fra-de-ping.vultr.com (108.61.210.117) 56(84) bytes of data.
+
+--- fra-de-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 316.470/317.594/319.811/0.989 ms
+PING lon-gb-ping.vultr.com (108.61.196.101) 56(84) bytes of data.
+
+--- lon-gb-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9002ms
+rtt min/avg/max/mdev = 295.880/297.037/301.639/1.702 ms
+PING nj-us-ping.vultr.com (108.61.149.182) 56(84) bytes of data.
+
+--- nj-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 234.887/241.784/291.634/16.654 ms
+PING il-us-ping.vultr.com (107.191.51.12) 56(84) bytes of data.
+
+--- il-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 235.183/244.954/324.220/26.440 ms
+PING tx-us-ping.vultr.com (108.61.224.175) 56(84) bytes of data.
+
+--- tx-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 206.311/214.568/219.257/4.239 ms
+PING ga-us-ping.vultr.com (108.61.193.166) 56(84) bytes of data.
+
+--- ga-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 217.464/219.219/227.076/2.754 ms
+PING lax-ca-us-ping.vultr.com (108.61.219.200) 56(84) bytes of data.
+
+--- lax-ca-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 168.554/169.839/172.790/1.178 ms
+PING fl-us-ping.vultr.com (104.156.244.232) 56(84) bytes of data.
+
+--- fl-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 233.781/262.118/511.403/83.098 ms
+PING wa-us-ping.vultr.com (108.61.194.105) 56(84) bytes of data.
+
+--- wa-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 177.014/178.217/181.542/1.416 ms
+PING sjo-ca-us-ping.vultr.com (104.156.230.107) 56(84) bytes of data.
+
+--- sjo-ca-us-ping.vultr.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 176.591/177.997/182.050/1.538 ms
+PING syd-au-ping.vultr.com (108.61.212.117) 56(84) bytes of data.
+
+--- syd-au-ping.vultr.com ping statistics ---
+10 packets transmitted, 4 received, 60% packet loss, time 9115ms
+rtt min/avg/max/mdev = 329.433/331.606/333.206/1.667 ms
