@@ -20,7 +20,7 @@ echo =============================
 echo 06 London
 ping -q lon-gb-ping.vultr.com -c 10 >> vult_ping.txt
 echo =============================
-echo 07 New York
+echo 07 New Jersey
 ping -q nj-us-ping.vultr.com -c 10 >> vult_ping.txt
 echo =============================
 echo 08 Chicago
