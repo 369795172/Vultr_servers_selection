@@ -9,7 +9,7 @@ cur.execute('DROP TABLE IF EXISTS Ping')
 cur.execute('CREATE TABLE Ping (place TEXT, min REAL, avg REAL, max REAL, mdev REAL, result REAL)')
 
 fname = input("Enter file name: ")
-if len(fname) < 1: fname = "vult_ping.txt"
+if len(fname) < 1: fname = "vultr_ping.txt"
 
 try:
 	fh = open(fname)
